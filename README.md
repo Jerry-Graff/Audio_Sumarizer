@@ -24,7 +24,7 @@ A FastAPI application that accepts an audio file upload, transcribes it using Op
 
 - **Python 3.7+**
 - An OpenAI API key. You can sign up at [OpenAI](https://openai.com/) and generate an API key.
-- Basic knowledge of Python, FastAPI, and RESTful APIs.
+- Basic knowledge of Python, FastAPI
 
 ## Installation
 
